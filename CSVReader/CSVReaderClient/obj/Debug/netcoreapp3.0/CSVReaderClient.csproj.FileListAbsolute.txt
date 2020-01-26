@@ -1,0 +1,16 @@
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReaderClient.exe
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\SampleData\Emp.csv
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\SampleData\Foo.csv
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReaderClient.deps.json
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReaderClient.runtimeconfig.json
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReaderClient.runtimeconfig.dev.json
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReaderClient.dll
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReaderClient.pdb
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReader.dll
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\bin\Debug\netcoreapp3.0\CSVReader.pdb
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\obj\Debug\netcoreapp3.0\CSVReaderClient.csprojAssemblyReference.cache
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\obj\Debug\netcoreapp3.0\CSVReaderClient.AssemblyInfoInputs.cache
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\obj\Debug\netcoreapp3.0\CSVReaderClient.AssemblyInfo.cs
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\obj\Debug\netcoreapp3.0\CSVReaderClient.csproj.CopyComplete
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\obj\Debug\netcoreapp3.0\CSVReaderClient.dll
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderClient\obj\Debug\netcoreapp3.0\CSVReaderClient.pdb

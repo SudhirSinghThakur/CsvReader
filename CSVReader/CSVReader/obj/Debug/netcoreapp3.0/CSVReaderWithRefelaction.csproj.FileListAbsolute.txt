@@ -1,0 +1,11 @@
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\bin\Debug\netcoreapp3.0\CSVReaderWithRefelaction.exe
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\bin\Debug\netcoreapp3.0\CSVReaderWithRefelaction.deps.json
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\bin\Debug\netcoreapp3.0\CSVReaderWithRefelaction.runtimeconfig.json
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\bin\Debug\netcoreapp3.0\CSVReaderWithRefelaction.runtimeconfig.dev.json
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\bin\Debug\netcoreapp3.0\CSVReaderWithRefelaction.dll
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\bin\Debug\netcoreapp3.0\CSVReaderWithRefelaction.pdb
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\obj\Debug\netcoreapp3.0\CSVReaderWithRefelaction.csprojAssemblyReference.cache
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\obj\Debug\netcoreapp3.0\CSVReaderWithRefelaction.AssemblyInfoInputs.cache
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\obj\Debug\netcoreapp3.0\CSVReaderWithRefelaction.AssemblyInfo.cs
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\obj\Debug\netcoreapp3.0\CSVReaderWithRefelaction.dll
+C:\Users\insthaku\source\repos\CSVReader\CSVReaderWithRefelaction\obj\Debug\netcoreapp3.0\CSVReaderWithRefelaction.pdb
