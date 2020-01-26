@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\insthaku\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\insthaku\\.nuget\\packages"
+    ]
+  }
+}
